@@ -1,5 +1,5 @@
 Hello World!
 
-We are making some additional changes
+The helloworld.py is a python program when run prints the output "Hello, Git world!".
 
-This is text I typed directly from the browser in GitHub.
+This python program can be run in bash using the following commands '$ python helloworld.py'.
